@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Product Information Page</title>
+</head>
+<body>
+
+    <h1 align="center">Laptop Product Information</h1>
+
+    <center>
+        <img src="laptop.jpg" alt="Laptop Image" width="300" height="200">
+    </center>
+
+    <h2>Product Details</h2>
+    <p><b>Product Name:</b> HP Laptop</p>
+    <p><b>Price:</b> ₹55,000</p>
+
+    <h2>Features</h2>
+    <ul>
+        <li>Intel Core i5 Processor</li>
+        <li>8 GB RAM</li>
+        <li>512 GB SSD Storage</li>
+        <li>15.6 Inch Full HD Display</li>
+        <li>Windows 11 Operating System</li>
+    </ul>
+
+    <h2>Specifications</h2>
+    <table border="1" cellpadding="10">
+        <tr>
+            <th>Specification</th>
+            <th>Details</th>
+        </tr>
+        <tr>
+            <td>Processor</td>
+            <td>Intel Core i5</td>
+        </tr>
+        <tr>
+            <td>RAM</td>
+            <td>8 GB</td>
+        </tr>
+        <tr>
+            <td>Storage</td>
+            <td>512 GB SSD</td>
+        </tr>
+        <tr>
+            <td>Display</td>
+            <td>15.6 Inch Full HD</td>
+        </tr>
+        <tr>
+            <td>Operating System</td>
+            <td>Windows 11</td>
+        </tr>
+        <tr>
+            <td>Battery Life</td>
+            <td>Up to 8 Hours</td>
+        </tr>
+    </table>
+
+    <h2>Pricing Information</h2>
+    <p><b>Original Price:</b> ₹60,000</p>
+    <p><b>Discount:</b> 8%</p>
+    <p><b>Final Price:</b> ₹55,000</p>
+
+    <br>
+    <button>Buy Now</button>
+
+</body>
+</html>
