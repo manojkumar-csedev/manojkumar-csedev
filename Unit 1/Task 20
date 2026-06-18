@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Book Information Portal</title>
+</head>
+<body>
+
+    <h1 align="center">Book Information Portal</h1>
+
+    <center>
+        <img src="book.jpg" alt="Book Cover" width="200" height="300">
+    </center>
+
+    <h2>Book Details</h2>
+
+    <p><b>Title:</b> The Alchemist</p>
+    <p><b>Author:</b> Paulo Coelho</p>
+    <p><b>Publisher:</b> HarperCollins Publishers</p>
+    <p><b>Year of Publication:</b> 1988</p>
+
+    <h2>Summary</h2>
+
+    <p>
+        The Alchemist is a famous novel that tells the story of Santiago,
+        a young shepherd who dreams of discovering a hidden treasure.
+        During his journey, he learns valuable lessons about following
+        his dreams, believing in himself, and understanding the true
+        purpose of life.
+    </p>
+
+    <h2>Book Features</h2>
+
+    <ul>
+        <li>Inspirational Story</li>
+        <li>Simple and Easy Language</li>
+        <li>Life Lessons and Motivation</li>
+        <li>International Bestseller</li>
+    </ul>
+
+</body>
+</html>
