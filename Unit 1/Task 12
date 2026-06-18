@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Student Marks Sheet</title>
+</head>
+<body>
+
+    <h1 align="center">Student Marks Sheet</h1>
+
+    <table border="1" align="center" cellpadding="10">
+        <tr>
+            <th>Subject</th>
+            <th>Marks Obtained</th>
+            <th>Maximum Marks</th>
+        </tr>
+
+        <tr>
+            <td>English</td>
+            <td>85</td>
+            <td>100</td>
+        </tr>
+
+        <tr>
+            <td>Mathematics</td>
+            <td>90</td>
+            <td>100</td>
+        </tr>
+
+        <tr>
+            <td>Physics</td>
+            <td>88</td>
+            <td>100</td>
+        </tr>
+
+        <tr>
+            <td>Chemistry</td>
+            <td>82</td>
+            <td>100</td>
+        </tr>
+
+        <tr>
+            <td>Computer Science</td>
+            <td>95</td>
+            <td>100</td>
+        </tr>
+
+        <tr>
+            <th>Total</th>
+            <th>440</th>
+            <th>500</th>
+        </tr>
+    </table>
+
+</body>
+</html>
