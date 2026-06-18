@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Hyperlinks Example</title>
+</head>
+<body>
+
+    <h1>Hyperlinks Demo</h1>
+
+    <h2>Internal Links</h2>
+    <a href="#about">Go to About Section</a><br>
+    <a href="#contact">Go to Contact Section</a>
+
+    <h2>External Links</h2>
+    <a href="https://www.google.com" target="_blank">Visit Google</a><br>
+    <a href="https://www.facebook.com" target="_blank">Visit facebook</a>
+
+    <hr>
+
+    <h2 id="about">About Section</h2>
+    <p>
+        This is the About section. Clicking the internal link jumps here.
+    </p>
+
+    <h2 id="contact">Contact Section</h2>
+    <p>
+        Email: example@gmail.com
+    </p>
+
+</body>
+</html>
