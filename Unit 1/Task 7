@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>College Information</title>
+</head>
+<body>
+
+    <h1>Nri university</h1>
+
+    <h2>Vision</h2>
+    <p>
+        To provide quality education and develop skilled professionals
+        who contribute to society.
+    </p>
+
+    <h2>Mission</h2>
+    <ul>
+        <li>Provide excellent academic education.</li>
+        <li>Promote research and innovation.</li>
+        <li>Develop leadership and ethical values.</li>
+        <li>Prepare students for successful careers.</li>
+    </ul>
+
+    <h2>Departments</h2>
+    <ol>
+        <li>Computer Science and Engineering (CSE)</li>
+        <li>Information Technology (IT)</li>
+        <li>Electronics and Communication Engineering (ECE)</li>
+        <li>Electrical and Electronics Engineering (EEE)</li>
+        <li>Mechanical Engineering</li>
+        <li>Civil Engineering</li>
+    </ol>
+
+    <h2>Facilities</h2>
+    <ul>
+        <li>Library</li>
+        <li>Computer Labs</li>
+        <li>Sports Ground</li>
+        <li>Hostel</li>
+        <li>Cafeteria</li>
+        <li>Wi-Fi Campus</li>
+    </ul>
+
+    <h2>Contact Us</h2>
+    <p>
+       Nri university<br>
+        Vijayawada, Andhra Pradesh<br>
+        Email: nriuniversity@gmail.com<br>
+        Phone: +91 9876543210
+    </p>
+
+</body>
+</html>
