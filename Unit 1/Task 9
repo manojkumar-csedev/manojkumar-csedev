@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Student Profile</title>
+</head>
+<body>
+
+    <h1>Student Information</h1>
+
+    <h2>Personal Information</h2>
+    <table border="1">
+        <tr>
+            <th>Field</th>
+            <th>Details</th>
+        </tr>
+        <tr>
+            <td>Name</td>
+            <td>Manoj Kumar</td>
+        </tr>
+        <tr>
+            <td>Father's Name</td>
+            <td>Ramesh Kumar</td>
+        </tr>
+        <tr>
+            <td>Date of Birth</td>
+            <td>01-01-2005</td>
+        </tr>
+        <tr>
+            <td>Address</td>
+            <td>Vijayawada, Andhra Pradesh</td>
+        </tr>
+    </table>
+
+    <h2>Academic Information</h2>
+    <table border="1">
+        <tr>
+            <th>Course</th>
+            <th>Institution</th>
+            <th>Percentage/CGPA</th>
+        </tr>
+        <tr>
+            <td>B.Tech (IT)</td>
+            <td>ABC Engineering College</td>
+            <td>8.5 CGPA</td>
+        </tr>
+        <tr>
+            <td>Intermediate</td>
+            <td>XYZ Junior College</td>
+            <td>92%</td>
+        </tr>
+        <tr>
+            <td>SSC</td>
+            <td>high School</td>
+            <td>95%</td>
+        </tr>
+    </table>
+
+    <h2>Hobbies</h2>
+    <ul>
+        <li>Reading Books</li>
+        <li>Playing Cricket</li>
+        <li>Programming</li>
+    </ul>
+
+</body>
+</html>
