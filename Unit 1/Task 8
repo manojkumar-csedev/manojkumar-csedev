@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Department Information</title>
+</head>
+<body>
+
+    <h1>Department of Information Technology</h1>
+
+    <h2>About the Department</h2>
+    <p>
+        The Information Technology Department provides quality education
+        in software development, networking, databases, and emerging technologies.
+    </p>
+
+    <h2>Faculty Members</h2>
+    <ul>
+        <li>Dr. Ramesh Kumar - Head of Department</li>
+        <li>Mrs. Sushma Devi - Assistant Professor</li>
+        <li>Mr. Manoj Kumar - Lecturer</li>
+    </ul>
+
+    <h2>Laboratories</h2>
+    <ol>
+        <li>Programming Lab</li>
+        <li>Database Management Lab</li>
+        <li>Computer Networks Lab</li>
+        <li>Web Technology Lab</li>
+    </ol>
+
+    <h2>Academic Programs</h2>
+    <ul>
+        <li>B.Tech in Information Technology</li>
+        <li>M.Tech in Information Technology</li>
+        <li>Certificate Course in Web Development</li>
+        <li>Certificate Course in Python Programming</li>
+    </ul>
+
+    <h2>Contact Information</h2>
+    <p>
+        Email: itdepartment@college.com <br>
+        Phone: +91 9876543210
+    </p>
+
+</body>
+</html>
