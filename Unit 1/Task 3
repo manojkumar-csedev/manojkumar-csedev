@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>HTML Tags Demo</title>
+</head>
+<body>
+
+    <h1>Main Heading</h1>
+    <h2>Sub Heading</h2>
+
+    <p>
+        This is a paragraph.
+        <b>This text is bold.</b><br>
+        <i>This text is italic.</i><br>
+        <u>This text is underlined.</u>
+    </p>
+
+    <p>
+        Superscript Example: x<sup>2</sup> + y<sup>2</sup>
+    </p>
+
+    <p>
+        Subscript Example: H<sub>2</sub>O and CO<sub>2</sub>
+    </p>
+
+</body>
+</html>
