@@ -1,0 +1,21 @@
+| Tag/Symbol     | Name                | Purpose                          |
+| -------------- | ------------------- | -------------------------------- |
+| <html>         | HTML Tag            | Root of HTML document            |
+| <head>         | Head Tag            | Contains page information        |
+| <title>        | Title Tag           | Sets browser tab title           |
+| <body>         | Body Tag            | Contains visible webpage content |
+| <h1> to <h6>   | Heading Tags        | Display headings                 |
+| <p>            | Paragraph Tag       | Creates a paragraph              |
+| <br>           | Break Tag           | Inserts a line break             |
+| <hr>           | Horizontal Rule Tag | Draws a horizontal line          |
+| <ul>           | Unordered List Tag  | Creates a bulleted list          |
+| <ol>           | Ordered List Tag    | Creates a numbered list          |
+| <li>           | List Item Tag       | Defines a list item              |
+| <a>            | Anchor Tag          | Creates a hyperlink              |
+| <img>          | Image Tag           | Displays an image                |
+| <table>        | Table Tag           | Creates a table                  |
+| <tr>           | Table Row Tag       | Defines a table row              |
+| <th>           | Table Heading Tag   | Defines a table header           |
+| <td>           | Table Data Tag      | Defines a table cell             |
+| <form>         | Form Tag            | Creates a form                   |
+| <input>        | Input Tag           | Creates an input field           |
