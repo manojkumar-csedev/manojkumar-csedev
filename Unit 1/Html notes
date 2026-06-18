@@ -1,1 +1,70 @@
+Brief Explanation of HTML:
+
+HTML (HyperText Markup Language) is the standard markup language used to create and design web pages. 
+It provides the basic structure of a webpage by using elements called tags.
+
+Key Features of HTML:
+*Creates the structure of web pages.
+*Supports text, images, audio, video, tables, and forms.
+*Allows linking between web pages using hyperlinks.
+*Works together with CSS (for styling) and JavaScript (for interactivity).
+*Easy to learn and widely used in web development.
+
+| Sym  | Name                                      
+| -----   | ---------------------------------------   
+| <       | Less Than Sign / Opening Angle Bracket    
+| >       | Greater Than Sign / Closing Angle Bracket 
+| /        | Forward Slash                             
+| =       | Equal Sign                                
+| "       | Double Quotation Mark                     
+| '        | Single Quotation Mark 
+| !       | Exclamation Mark                          
+| -       | Hyphen / Dash                             
+| :       | Colon                                     
+| ;       | Semicolon                                 
+| &     | Ampersand                                 
+| .       | Dot / Period                              
+| (       | Left Parenthesis                          
+|  )      | Right Parenthesis                         
+Tag/Symbol     Name                 Purpose                          
+--------------       ------------------- -------------------------------- 
+ <html>              HTML Tag        Root of HTML document            
+ <head>              Head Tag           Contains page information        
+ <title>               Title Tag             Sets browser tab title           
+<body>              Body Tag            Contains visible page cont
+ <h1> to <h6>   Heading Tags      Display headings                 
+ <p>                  Paragraph Tag      Creates a paragraph              
+ <br>                 Break Tag             Inserts a line break             
+<hr>               Horizontal Rule Tag  Draws a horizontal line          
+<ul>                 Unordered List Tag   Creates a bulleted list          
+ <ol>                 Ordered List Tag      Creates a numbered list          
+<li>                   List Item Tag            Defines a list item              
+ <a>                  Anchor Tag              Creates a hyperlink              
+ <img>              Image Tag               Displays an image                
+<table>            Table Tag                  Creates a table                  
+ <tr>                 Table Row Tag        Defines a table row              
+<th>                Table Heading Tag    Defines a table header           
+ <td>                Table Data Tag         Defines a table cell             
+ <form>           Form Tag                  Creates a form                   
+ <input>          Input Tag                   Creates an input field           
+
+Tags starting & Ending
+
+<html>...</html>
+<head>...</head>
+<title>...</title>
+<body>...</body>
+<h1>...</h1>
+<h2>...</h2>
+<p>...</p>
+<ul>...</ul>
+<ol>...</ol>
+<li>...</li>
+
+
+
+
+
+
+
 
