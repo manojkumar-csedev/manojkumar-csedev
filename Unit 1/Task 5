@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Lists Example</title>
+</head>
+<body>
+
+    <h1>HTML Lists Demo</h1>
+
+    <h2>Ordered List</h2>
+    <ol>
+        <li>Wake Up</li>
+        <li>Brush Teeth</li>
+        <li>Have Breakfast</li>
+    </ol>
+
+    <h2>Unordered List</h2>
+    <ul>
+        <li>Apple</li>
+        <li>Banana</li>
+        <li>Mango</li>
+    </ul>
+
+    <h2>Nested List</h2>
+    <ul>
+        <li>Programming Languages
+            <ul>
+                <li>C</li>
+                <li>C++</li>
+                <li>Python</li>
+            </ul>
+        </li>
+        <li>Web Technologies
+            <ul>
+                <li>HTML</li>
+                <li>CSS</li>
+                <li>JavaScript</li>
+            </ul>
+        </li>
+    </ul>
+
+</body>
+</html>
