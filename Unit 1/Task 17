@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Student Registration Form</title>
+</head>
+<body>
+
+    <h2 align="center">Student Registration Form</h2>
+
+    <form>
+
+        <fieldset>
+            <legend><b>Personal Details</b></legend>
+
+            Full Name:<br>
+            <input type="text" name="fullname" required><br><br>
+
+            Date of Birth:<br>
+            <input type="date" name="dob"><br><br>
+
+            Gender:<br>
+            <input type="radio" name="gender" value="Male"> Male
+            <input type="radio" name="gender" value="Female"> Female
+            <input type="radio" name="gender" value="Other"> Other
+            <br><br>
+
+            Email:<br>
+            <input type="email" name="email" required><br><br>
+
+            Phone Number:<br>
+            <input type="tel" name="phone" required><br><br>
+
+            Address:<br>
+            <textarea rows="4" cols="40"></textarea><br><br>
+        </fieldset>
+
+        <br>
+
+        <fieldset>
+            <legend><b>Academic Details</b></legend>
+
+            Registration Number:<br>
+            <input type="text" name="regno"><br><br>
+
+            Course:<br>
+            <select name="course">
+                <option>B.Tech</option>
+                <option>B.Sc</option>
+                <option>B.Com</option>
+                <option>BCA</option>
+                <option>MCA</option>
+            </select>
+            <br><br>
+
+            Branch:<br>
+            <select name="branch">
+                <option>Computer Science</option>
+                <option>Information Technology</option>
+                <option>Electronics</option>
+                <option>Mechanical</option>
+                <option>Civil</option>
+            </select>
+            <br><br>
+
+            Year of Study:<br>
+            <select name="year">
+                <option>1st Year</option>
+                <option>2nd Year</option>
+                <option>3rd Year</option>
+                <option>4th Year</option>
+            </select>
+            <br><br>
+
+            Skills:<br>
+            <input type="checkbox" name="skill" value="HTML"> HTML
+            <input type="checkbox" name="skill" value="CSS"> CSS
+            <input type="checkbox" name="skill" value="JavaScript"> JavaScript
+            <input type="checkbox" name="skill" value="Python"> Python
+            <br><br>
+        </fieldset>
+
+        <br>
+
+        <input type="submit" value="Register">
+        <input type="reset" value="Clear">
+
+    </form>
+
+</body>
+</html>
