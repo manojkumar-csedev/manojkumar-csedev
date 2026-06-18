@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Professional Portfolio</title>
+</head>
+<body>
+
+    <!-- Header -->
+    <header align="center">
+        <h1>Manoj Kumar</h1>
+        <p>B.Tech IT Student | Web Developer</p>
+    </header>
+
+    <hr>
+
+    <!-- Navigation -->
+    <nav align="center">
+        <a href="#about">About</a> |
+        <a href="#skills">Skills</a> |
+        <a href="#projects">Projects</a> |
+        <a href="#achievements">Achievements</a> |
+        <a href="#contact">Contact</a>
+    </nav>
+
+    <hr>
+
+    <!-- About Section -->
+    <section id="about">
+        <h2>About Me</h2>
+        <img src="profile.jpg" alt="Profile Photo" width="150">
+        <p>
+            I am a B.Tech Information Technology student passionate about
+            web development, programming, and software engineering.
+            I enjoy building websites and learning new technologies.
+        </p>
+    </section>
+
+    <hr>
+
+    <!-- Skills Section -->
+    <section id="skills">
+        <h2>Technical Skills</h2>
+        <ul>
+            <li>HTML5</li>
+            <li>CSS3</li>
+            <li>JavaScript</li>
+            <li>Python</li>
+            <li>Java</li>
+            <li>Git & GitHub</li>
+        </ul>
+    </section>
+
+    <hr>
+
+    <!-- Projects Section -->
+    <section id="projects">
+        <h2>Projects</h2>
+
+        <article>
+            <h3>Student Information Portal</h3>
+            <p>
+                A web application for managing student academic and personal information.
+            </p>
+        </article>
+
+        <article>
+            <h3>Personal Portfolio Website</h3>
+            <p>
+                A responsive website showcasing skills, projects, and achievements.
+            </p>
+        </article>
+
+        <article>
+            <h3>Smart Attendance Tracker</h3>
+            <p>
+                An application to calculate and monitor student attendance percentage.
+            </p>
+        </article>
+    </section>
+
+    <hr>
+
+    <!-- Achievements Section -->
+    <section id="achievements">
+        <h2>Achievements</h2>
+        <ul>
+            <li>Completed Web Development Certification</li>
+            <li>Participated in Technical Workshops</li>
+            <li>Developed Multiple Academic Projects</li>
+        </ul>
+    </section>
+
+    <hr>
+
+    <!-- Contact Section -->
+    <section id="contact">
+        <h2>Contact Information</h2>
+
+        <p>Email: manoj@example.com</p>
+        <p>Phone: +91 9876543210</p>
+
+        <form>
+            <label>Name:</label><br>
+            <input type="text"><br><br>
+
+            <label>Email:</label><br>
+            <input type="email"><br><br>
+
+            <label>Message:</label><br>
+            <textarea rows="4" cols="30"></textarea><br><br>
+
+            <input type="submit" value="Send Message">
+        </form>
+    </section>
+
+    <hr>
+
+    <!-- Footer -->
+    <footer align="center">
+        <p>&copy; 2026 Manoj Kumar Portfolio. All Rights Reserved.</p>
+    </footer>
+
+</body>
+</html>
