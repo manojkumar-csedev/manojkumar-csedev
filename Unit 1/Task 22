@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Educational Learning Portal</title>
+</head>
+<body>
+
+    <header>
+        <h1>Educational Learning Portal</h1>
+        <p>Learn, Explore, and Grow Your Skills</p>
+    </header>
+
+    <nav aria-label="Main Navigation">
+        <ul>
+            <li><a href="#courses">Courses</a></li>
+            <li><a href="#resources">Resources</a></li>
+            <li><a href="#contact">Contact</a></li>
+        </ul>
+    </nav>
+
+    <main>
+
+        <section id="courses">
+            <h2>Available Courses</h2>
+            <ul>
+                <li>HTML & CSS Fundamentals</li>
+                <li>JavaScript Programming</li>
+                <li>Python for Beginners</li>
+                <li>Database Management Systems</li>
+            </ul>
+        </section>
+
+        <section id="resources">
+            <h2>Learning Resources</h2>
+
+            <img src="education.jpg"
+                 alt="Students learning through online educational resources"
+                 width="300">
+
+            <p>
+                Access tutorials, notes, assignments, and practice exercises
+                to improve your technical knowledge.
+            </p>
+        </section>
+
+        <section id="contact">
+            <h2>Contact Us</h2>
+
+            <form>
+                <label for="name">Name:</label><br>
+                <input type="text" id="name" name="name" required>
+                <br><br>
+
+                <label for="email">Email:</label><br>
+                <input type="email" id="email" name="email" required>
+                <br><br>
+
+                <label for="message">Message:</label><br>
+                <textarea id="message" name="message" rows="4" cols="30"></textarea>
+                <br><br>
+
+                <input type="submit" value="Submit">
+            </form>
+        </section>
+
+    </main>
+
+    <footer>
+        <p>&copy; 2026 Educational Learning Portal. All Rights Reserved.</p>
+    </footer>
+
+</body>
+</html>
