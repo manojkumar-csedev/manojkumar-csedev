@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Semantic HTML Website</title>
+</head>
+<body>
+
+    <header>
+        <h1>My College Website</h1>
+        <p>Welcome to the College Information Portal</p>
+    </header>
+
+    <nav>
+        <a href="#">Home</a> |
+        <a href="#">Departments</a> |
+        <a href="#">Courses</a> |
+        <a href="#">Contact</a>
+    </nav>
+
+    <section>
+        <h2>About Our College</h2>
+
+        <article>
+            <h3>Vision</h3>
+            <p>
+                To provide quality education and develop skilled professionals.
+            </p>
+        </article>
+
+        <article>
+            <h3>Mission</h3>
+            <p>
+                To promote innovation, research, and academic excellence.
+            </p>
+        </article>
+    </section>
+
+    <aside>
+        <h3>Latest News</h3>
+        <p>Admissions for 2026 are now open.</p>
+    </aside>
+
+    <footer>
+        <p>&copy; 2026 My College Website. All Rights Reserved.</p>
+    </footer>
+
+</body>
+</html>
